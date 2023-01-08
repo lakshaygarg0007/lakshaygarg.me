@@ -1,6 +1,6 @@
 # portfolio-site
 
-Live Site URL: [Visit here 🚀 ](https://naveenpolasa.me/)
+Live Site URL: [Visit here 🚀 ](https://lakshaygarg.tech/)
 
 ### Screenshots
 
@@ -24,7 +24,3 @@ Live Site URL: [Visit here 🚀 ](https://naveenpolasa.me/)
 - TailwindCSS
 - JavaScript
 
-### Connect With Me
-
-- LinkedIn - [Naveen Polasa](https://www.linkedin.com/in/naveen-polasa/)
-- Twitter - [@NaveenPolasa](https://twitter.com/NaveenPolasa)
